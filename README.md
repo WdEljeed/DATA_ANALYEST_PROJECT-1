@@ -21,12 +21,12 @@ The project uses a single table named `retail_sales` with the following columns:
 *   `gender`
 *   `age`
 *   `category`
-*   `quantiy` (Note: typo in original dataset)
+*   `quantiy` 
 *   `price_per_unit`
 *   `cogs`
 *   `total_sale`
 
-## 🧹 Step 1: Data Cleaning
+##  Step 1: Data Cleaning
 Before analysis, the data was inspected for missing (NULL) values. Any rows containing NULL values in critical columns were deleted to ensure accurate calculations.
 
 ##  Step 2: Data Exploration
