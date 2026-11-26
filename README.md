@@ -1,8 +1,4 @@
-# DATA_ANALYEST_PROJECT-1
-A comprehensive SQL data analysis project on Retail Sales data. This repository demonstrates end-to-end data handling, including table creation, data cleaning, and exploratory data analysis (EDA). It features 10 business-driven SQL queries solving real-world problems using aggregations, window functions, CTEs, and CASE statements.
-# DATA_ANALYST_PROJECT-1
 
-A comprehensive SQL data analysis project on Retail Sales data. This repository demonstrates end-to-end data handling, including table creation, data cleaning, and exploratory data analysis (EDA). It features 10 business-driven SQL queries solving real-world problems using aggregations, window functions, CTEs, and CASE statements.
 
 ##  Project Overview
 This project focuses on analyzing a Retail Sales dataset using **PostgreSQL**. The goal is to demonstrate core SQL skills by taking raw transactional data, cleaning it, exploring it, and answering 10 specific business questions. 
